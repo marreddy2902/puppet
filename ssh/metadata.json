@@ -1,0 +1,15 @@
+{
+  "name": "mshyamala-ssh",
+  "version": "0.1.0",
+  "author": "mshyamala",
+  "summary": "this is ssh module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/marreddy2902/puppet",
+  "project_page": "https://github.com/marreddy2902/puppet",
+  "issues_url": "https://github.com/marreddy2902/puppet/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
